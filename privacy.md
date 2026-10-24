@@ -10,4 +10,4 @@ Jarvis è un'applicazione personale, usata esclusivamente dal suo proprietario, 
 
 **Dati Google.** L'uso delle informazioni ricevute dalle API di Google rispetta le Google API Services User Data Policy, inclusi i requisiti di Limited Use.
 
-**Contatti.** [la tua email]
+**Contatti.** alessiouseliii@gmail.com
